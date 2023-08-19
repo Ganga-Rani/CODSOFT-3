@@ -13,8 +13,8 @@ h1{
     text-decoration: underline;
 }
 .Calculator{
-    height: 75vh;
-    width: 25vw;
+    height: 570px;
+    width: 400px;
     background-color: rgba(19, 19, 19, 0.858);
     margin: auto;
     margin-top: 2.5rem;
